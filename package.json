@@ -1,0 +1,25 @@
+{
+  "name": "bamazoncustomer",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzarrillo/bAmazonCustomer.git"
+  },
+  "author": "Don Zarrillo Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzarrillo/bAmazonCustomer/issues"
+  },
+  "homepage": "https://github.com/dzarrillo/bAmazonCustomer#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.3.1",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  }
+}
